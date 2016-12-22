@@ -1,0 +1,161 @@
+#body
+{
+    margin-right: 200px;
+    margin-left: 200px;
+    width:auto;
+
+}
+
+#tableViewContainer{
+    /*position: absolute;*/
+    margin-right: 0px;
+}
+
+#tHead{
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    background: #d1d1d1;
+    margin-bottom: 2px; 
+    margin-top: -25px;
+}
+
+#row{
+    align-items: left;
+    padding: 10px;
+    background: #eee;
+    margin-bottom: 2px;   
+}
+
+#table{
+ text-align: center;
+ float: center;    
+}
+
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    /* margin: 20px 0; */
+    border-radius: 4px;
+}
+
+
+
+button{
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background: none;
+    border-radius: 20px;
+    border: navajowhite;
+}
+
+#modalHeader{
+    padding: 15px;
+    background: #d1d1d1;
+    border-radius: inherit;
+}
+#modalBody
+{
+    background-color: #eee;
+    padding:0px;
+}
+
+#modalRow{
+
+    margin-left: 40px;
+   
+}
+#modalTitle
+{
+    margin-bottom: 15px;
+    margin-left: 52px;
+}
+
+
+#modalFooter {
+    padding: 22px;
+    margin-top: -20px;
+    background-color: #eee;
+    text-align: right;
+    border-radius: inherit;
+    border-top: 1px solid #e5e5e5;
+}
+
+#deleteModalTitle
+{
+    margin-left: 19px 
+}
+
+#deleteModalHeader{
+    padding: 20px;
+    background-color: #eee;
+    border-radius: inherit;
+}
+
+#deleteModalBody{
+    font-size: initial;
+    padding: 40px;
+}
+#deleteModalFooter{
+
+    background-color: #eee;
+    text-align: right;
+    border-radius: inherit;
+    border-top: 1px solid #e5e5e5;
+}
+
+.span
+{
+    visibility: hidden;
+    color: red;
+}
+b
+{
+    
+    color: red;
+}
+#modalAddButton
+{
+    margin-left: 22px;
+    padding: 6px 19px;
+}
+#modalCancelButton
+{
+    float: right;
+    margin-right: 64px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    
+}
+#modalUpdateButton
+{
+    margin-left: 17px;
+    padding: 6px 11px;
+}
+#existanceMessage
+{
+    float: right;
+    margin-right: 65px;
+    color:red;
+    font-size: large
+}
+#company{
+        padding: 4px 14px 4px 0px;
+}
+
+#paginationDiv
+{
+    margin-top: -2px;
+    float: right;
+}
+
+
+
+#paginationGridContainer{
+     background-color: lightslategrey;
+    height: 53px;
+    margin-top: -19px;
+}

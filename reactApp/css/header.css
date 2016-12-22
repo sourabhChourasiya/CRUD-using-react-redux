@@ -1,0 +1,27 @@
+#header
+{
+    margin-right: 200px;
+    margin-left: 200px;
+    height:84px;
+    width:auto;
+    background: lightslategray;
+    text-align: left;
+    padding-top: 20px;
+}
+
+h1{
+    font-size: 36px;
+    margin-left: 25px;
+}
+
+#message{
+    visibility: hidden;
+    float: right;
+    margin-right: 25px;
+    margin-top: 13px;
+    color: white;
+    font-family: 'Arial Bold',;
+    font-size: 20px;
+
+    
+}
